@@ -2,7 +2,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48" height="48" />
 - 👯 As a fullstack developer, I’m looking to collaborate on awesome web apps with awesome dev teams.
 - 🤔 I love learning and working, I'd like to build firm working relationships with winning teams.
-- 🌱 I'd like to learn more about python <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" alt="Python Logo"></code>
+- 🌱 I'd like to learn more about rust ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 - 📫 How to reach me: pmars0524@gmail.com
 
 ## Languages and Tools:
