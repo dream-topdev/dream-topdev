@@ -1,9 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=TrustDev&color=blueviolet)
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48" height="48" />
-- 👯 As a fullstack developer, I’m looking to collaborate on awesome web apps with awesome dev teams.
-- 🤔 I love learning and working, I'd like to build firm working relationships with winning teams.
-- 🌱 I'd like to learn more about rust ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-- 📫 How to reach me: pmars0524@gmail.com
 
 ## Languages and Tools:
 
@@ -11,7 +6,7 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1ziFNu-3pS3vnTjouCUBSxA8hKdLnJcVTA&usqp=CAU" width="48" height="48" alt="parrot os logo"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="48" alt="typescript logo"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" alt="node logo"> <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="48" alt="laravel logo"> <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Git Logo"> 
 <br/>
-[![TrustDev's github stats](https://github-readme-stats.vercel.app/api?username=TrustDev&count_private=true&show_icons=true&theme=dark)](https://github.com/TrustDev/TrustDev)
+[![TrustDev's github stats](https://github-readme-stats.vercel.app/api?username=DevWithReact&count_private=true&show_icons=true&theme=dark)](https://github.com/DevWithReact/DevWithReact)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
